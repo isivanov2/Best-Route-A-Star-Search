@@ -1,0 +1,4 @@
+Valparaiso=100 Vina=102 SanAntonio=90 Melipilla=70 Casablanca=78 Santiago=0
+Valparaiso-Vina=9 Valparaiso-SanAntonio=88 Vina-Casablanca=48 Vina-Valparaiso=9 SanAntonio-Melipilla=48 SanAntonio-Valparaiso=88 Melipilla-Santiago=73 Melipilla-SanAntonio=48 Casablanca-Santiago=78 Casablanca-Vina=48 Santiago-Casablanca=78 Santiago-Melipilla=73
+Start:Valparaiso
+End:Santiago
